@@ -1,0 +1,21 @@
+.custom-header-bg{
+    background-color: #264653;
+}
+.text-white{
+    color: white;
+}
+.custom-btn{
+    background-color: #E76F51;
+    padding: 10px 30px;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.gogole-fonts{
+    font-family: 'Poppins', sans-serif;
+}
+.text-gray{
+    color: #E0E0E0;
+}
+.text-black{
+    color: black;
+}
