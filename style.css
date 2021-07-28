@@ -4,6 +4,9 @@
 .text-white{
     color: white;
 }
+.text-yellow{
+    color: #E76F51;;
+}
 .custom-btn{
     background-color: #E76F51;
     padding: 10px 30px;
@@ -19,3 +22,7 @@
 .text-black{
     color: black;
 }
+ 
+ 
+ 
+ 
